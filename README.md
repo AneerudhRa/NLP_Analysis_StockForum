@@ -47,5 +47,5 @@ Feel free to explore the code and data in this repository to replicate the analy
 Happy analyzing!
   
 ## Disclaimer
-- The information in this model is provided for educational purposes only and should not be considered as financial advice. Users should conduct independent research and consult with a qualified financial advisor before making any investment decisions. We do not guarantee the accuracy or reliability of the information, and its use is at the user's own risk.
+The information in this model is provided for educational purposes only and should not be considered as financial advice. Users should conduct independent research and consult with a qualified financial advisor before making any investment decisions. We do not guarantee the accuracy or reliability of the information, and its use is at the user's own risk.
 
