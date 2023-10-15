@@ -12,6 +12,7 @@ This project aims to scrape data from the MoneyControl stock forum, to analyze t
 - [Frequency Analysis](#frequency-analysis)
 - [Stock Recommendations](#stock-recommendations)
 - [Conclusion](#conclusion)
+- [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
 
 
@@ -45,7 +46,14 @@ This project demonstrates how to scrape data from the MoneyControl stock forum, 
 Feel free to explore the code and data in this repository to replicate the analysis or adapt it for your specific needs.
 
 Happy analyzing!
-  
+
+## Contributors
+- Jyotis Joy
+- Eeshana Hamed
+- Vi Trieu Tran
+- Anukul Kumar Singh
+
+
 ## Disclaimer
 The information in this model is provided for educational purposes only and should not be considered as financial advice. Users should conduct independent research and consult with a qualified financial advisor before making any investment decisions. We do not guarantee the accuracy or reliability of the information, and its use is at the user's own risk.
 
